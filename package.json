@@ -1,0 +1,12 @@
+{
+  "name": "club-bi-client",
+  "version": "1.0.0",
+  "description": "A simple Club-bi application client, to easily get all your information as a customer, in a better an easier way to explore.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["club-bi", "bi", "guatemala"],
+  "author": "Jonathan Samines<jn.samines@gmail.com>",
+  "license": "MIT"
+}
