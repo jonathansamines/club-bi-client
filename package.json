@@ -6,7 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["club-bi", "bi", "guatemala"],
+  "keywords": [
+    "club-bi",
+    "bi",
+    "guatemala"
+  ],
   "author": "Jonathan Samines<jn.samines@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "nock": "^5.2.1"
+  }
 }
